@@ -1,0 +1,10 @@
+.appContainer{
+    background-color: #e4e9ff;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #a4a2bc;
+}

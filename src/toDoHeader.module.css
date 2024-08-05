@@ -1,0 +1,24 @@
+.toDoHeader {
+    background-color: #b07eec;
+    width: 500px;
+    height: 25px;
+    padding: 15px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menuContainer{
+    display: flex;
+    justify-content: flex-start;
+    
+}
+
+.toDoTitle{
+    color: white;
+    flex-grow: 1;
+    text-align: center;
+    margin: 0;
+    font-size: 46;
+}
